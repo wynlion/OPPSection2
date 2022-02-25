@@ -17,6 +17,10 @@ public class Bird extends Animal {
         System.out.println(this.getName() + " is flying");
     }
 
+    public void fly (int speed) {
+
+    }
+
     public int getWings() {
         return wings;
     }

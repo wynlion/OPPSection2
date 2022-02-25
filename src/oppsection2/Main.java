@@ -7,6 +7,6 @@ public class Main {
         phoenix.eat("Meat");
 
 //        System.out.println(phoenix.getWings());
-        phoenix.fly(100);
+        phoenix.fly(10);
     }
 }
